@@ -20,7 +20,9 @@ Build
 
 Deployment
 -----
-The app automatically deploys on [Vercel](https://vercel.com) on commits to the `master` branch.
+To deploy to production, install the Vercel CLI with `npm i -g vercel`. Then, log in using `vercel login`. Afterwards, you can deploy by running `vercel` in the project root.
+
+[Vercel](https://vercel.com).
 
 Bug? Feature idea?
 ------------------
