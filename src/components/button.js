@@ -3,6 +3,8 @@ import { connect } from "react-redux";
 
 import * as actionCreators from "../action_creators";
 
+import ReactGA from 'react-ga';
+
 export class StandaloneButton extends Component {
   constructor(props) {
     super(props);
@@ -45,6 +47,10 @@ export class StandaloneButton extends Component {
       this._audioTag.currentTime = 0.0;
       this._audioTag.volume = this.props.volume / 100;
       this._audioTag.play();
+      ReactGA.event({
+        category: 'Button click',
+        action: this.props.title
+      });
     }
   }
 
