@@ -22,7 +22,7 @@ store.subscribe(() => {
 document.addEventListener("DOMContentLoaded", () => {
   ReactDOM.render(
     <Provider store={store}>
-      <h1>MonniRS soundboard</h1>
+      <h1 className="title">MonniRS soundboard</h1>
       <Soundboard />
     </Provider>,
     document.getElementById("root")

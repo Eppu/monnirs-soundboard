@@ -1,7 +1,7 @@
 const INITIAL_STATE = {
   fetching: true,
   config: {},
-  volume: 50
+  volume: 100
 };
 
 export default function (state = INITIAL_STATE, action) {
