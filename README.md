@@ -1,4 +1,5 @@
-React Soundboard
+MonniRS Soundboard
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ================
 
 A damn small soundboard based on some React code.
