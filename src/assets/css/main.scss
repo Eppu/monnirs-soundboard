@@ -102,3 +102,17 @@ input[type=range]::-ms-thumb {
 .title {
   text-align: center;
 }
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  @media screen and (max-width: 768px) {
+    img {
+      display:none;
+    }
+  }
+  img {
+    height: 50px;
+    margin-right:10px;
+  }
+}

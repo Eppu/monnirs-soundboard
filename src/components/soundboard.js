@@ -36,6 +36,9 @@ export class StandaloneSoundboard extends Component {
   getSoundboard = () => {
     return (
       <div>
+        <div class="heading">
+          <img src="favicon.png" alt="monniLu" class="title-img"></img><h1 className="title">MonniRS soundboard</h1>
+        </div>
         <Volumeslider />
         <section
           id="soundboard"

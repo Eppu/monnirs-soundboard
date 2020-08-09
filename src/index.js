@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initializeReactGA();
   ReactDOM.render(
     <Provider store={store}>
-      <h1 className="title">MonniRS soundboard</h1>
+      
       <Soundboard />
     </Provider>,
     document.getElementById("root")
