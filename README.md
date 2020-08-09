@@ -3,8 +3,6 @@ React Soundboard
 
 A damn small soundboard based on some React code.
 
-Note: I've recently rewritten the app in React for a quick demo and I've
-dropped some features I do no longer need. Check the `old` branch as well.
 
 Setup
 -----
