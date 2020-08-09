@@ -2,11 +2,10 @@
   "name": "react-soundboard",
   "version": "1.2.0",
   "description": "A React soundboard!",
-  "author": "Dennis Schubert <mail@dennis-schubert.de>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fensterbank/react-soundboard"
+    "url": "https://github.com/Eppu/monnirs-soundboard"
   },
   "keywords": [
     "soundboard",
