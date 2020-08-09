@@ -1,4 +1,5 @@
-MonniRS Soundboard
+# MonniRS Soundboard
+
 ## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Eppu/monnirs-soundboard/pulls)
 
 A damn small soundboard based on some React code.
