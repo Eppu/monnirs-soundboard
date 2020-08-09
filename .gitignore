@@ -25,4 +25,8 @@ dist/
 !assets/sounds/.gitkeep
 !dist/.gitkeep
 
+<<<<<<< HEAD
 .vercel
+=======
+/.vercel
+>>>>>>> dev
