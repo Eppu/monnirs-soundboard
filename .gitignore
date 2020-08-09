@@ -24,3 +24,5 @@ public/assets/sounds/
 dist/
 !assets/sounds/.gitkeep
 !dist/.gitkeep
+
+/.vercel
