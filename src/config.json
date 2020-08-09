@@ -7,16 +7,37 @@
   },
   "sounds": [
     {
-      "title": "Clap",
-      "file": "clap.wav"
+      "title": "Ookoo",
+      "file": "ookoo.wav"
     },
     {
-      "title": "Kick",
-      "file": "kick.wav"
+      "title": "HÄH?",
+      "file": "hah.wav"
     },
     {
       "title": "Brrrrrrrrr",
       "file": "brr.wav"
+    },
+    {
+      "title": "Tyhmä apina",
+      "file": "tyhma_apina.wav"
+    },
+    {
+      "title": "Ei kuittia kiitos :)",
+      "file": "ei_kuittia_kiitos.wav"
+    },
+    {
+      "title": "waaAAAAAAA",
+      "file": "waaa.wav"
+    },
+    {
+      "title": "Saatana",
+      "file": "saatana.wav"
+    },
+    {
+      "title": "not drunk",
+      "file": "not_drunk.wav"
     }
+
   ]
 }
