@@ -39,7 +39,6 @@ export class StandaloneSoundboard extends Component {
         <div class="heading">
           <img src="favicon.png" alt="monniLu" class="title-img"></img><h1 className="title">MonniRS soundboard</h1>
         </div>
-        <Volumeslider />
         <section
           id="soundboard"
           style={this.getSoundboardStyles()}
@@ -54,6 +53,7 @@ export class StandaloneSoundboard extends Component {
             />);
           })}
         </section>
+        <Volumeslider />
       </div>
     );
   }

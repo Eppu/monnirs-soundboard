@@ -37,7 +37,26 @@
     {
       "title": "not drunk",
       "file": "not_drunk.wav"
+    },
+    {
+      "title": "DID I JUST WON 10K ?!",
+      "file": "did_i_just_won_10k.wav"
+    },
+    {
+      "title": "Cheddar",
+      "file": "cheddar.wav"
+    },
+    {
+      "title": "Mun vitun iso kyrpä",
+      "file": "mun_vitun_iso_kyrpa.wav"
+    },
+    {
+      "title": "cba",
+      "file": "cba.wav"
+    },
+    {
+      "title": "Otetaas yks siripiri",
+      "file": "siripiri.wav"
     }
-
   ]
 }
