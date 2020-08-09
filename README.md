@@ -1,6 +1,6 @@
 # MonniRS Soundboard
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Eppu/monnirs-soundboard/pulls)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Eppu/monnirs-soundboard/pulls) [![Netlify Status](https://api.netlify.com/api/v1/badges/b5fe4ddc-d909-494a-b9f0-cc2e4f7c2e52/deploy-status)](https://app.netlify.com/sites/monnirs/deploys)
 
 A damn small soundboard based on some React code.
 
