@@ -57,6 +57,22 @@
     {
       "title": "Otetaas yks siripiri",
       "file": "siripiri.wav"
+    },
+    {
+      "title": "Onko paperia?",
+      "file": "onko_paperia.mp3"
+    },
+    {
+      "title": "Rabierviirus",
+      "file": "rabier_viirus.wav"
+    },
+    {
+      "title": "Voi vittu",
+      "file": "voi_vittu.mp3"
+    },
+    {
+      "title": "SAATANA",
+      "file": "saatana_louder.mp3"
     }
   ]
 }
